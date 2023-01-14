@@ -4,6 +4,10 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/117871430/212483723-4e7c2bc1-06c5-431f-9926-51c5497e1bbd.png" width="300px" />
 </div>
+
+<p align="center">
+  Good to see you here. Im sorry, this place is a mess with all these codes. <br>I'm Fabiano, you can call me Binho, a great <strong>problem solver</strong>!
+
 <!--
 **binhorochatrybe/binhorochatrybe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
