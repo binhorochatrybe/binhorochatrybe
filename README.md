@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<img src="https://desblogada.files.wordpress.co..." width="700px" />
+<img src="https://desblogada.files.wordpress.co..." width="0px" />
 </div>
 <!--
 **binhorochatrybe/binhorochatrybe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
