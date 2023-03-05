@@ -1,7 +1,7 @@
-### Welcome to my mess!
+### Welcome to my mess! 🐇
 
 
-### Hi! My name is Fabiano, you can call me Binho.
+### Hi! My name is Fabiano, you can call me Binho.🖖
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiano-dev-l33413/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/binhodemierda) 
 <br> <br/>
@@ -15,7 +15,6 @@
 <img alt='javascript' src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img alt='css'src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
-----------------------------------------------
 <!--
 **binhorochatrybe/binhorochatrybe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
