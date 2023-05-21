@@ -1,31 +1,40 @@
-### Welcome to my mess! 🐇
-
-
-### Hi! My name is Fabiano, you can call me Binho.🖖
+<h1 align="center">
+  <img src="GIF/Earth.gif" width="24px">
+  𝐇𝐞𝐥𝐥𝐨, &lt;devs/&gt;!
+  <img src="GIF/Hi.gif" width="40px" />
+</h1>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiano-dev-l33413/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/binhodemierda) 
+<br/>
+<br/>
+- 𝗠𝘆 𝗻𝗮𝗺𝗲 𝗶𝘀 𝗙𝗮𝗯𝗶𝗮𝗻𝗼, 𝘆𝗼𝘂 𝗰𝗮𝗻 𝗰𝗮𝗹𝗹 𝗺𝗲 𝗕𝗶𝗻𝗵𝗼!
 <br> <br/>
-![Binho's GitHub stats](https://github-readme-stats.vercel.app/api?username=binhorochatrybe&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binhorochatrybe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-### Stack's 🐱‍💻
-<div  style= 'display: inline_block'> <img alt='bootstrap'src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
-<img alt='html5'src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> 
-<img alt='jquery'src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+- 🔭 𝙄𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙨𝙩𝙪𝙙𝙮𝙞𝙣𝙜 𝙒𝙚𝙗 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩*
 
-<img alt='javascript' src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img alt='css'src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-</div>
-<!--
-**binhorochatrybe/binhorochatrybe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 𝙄𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙅𝙖𝙫𝙖, 𝙍𝙚𝙖𝙘𝙩 𝙖𝙣𝙙 𝙉𝙤𝙙𝙚𝙅𝙎
 
-Here are some ideas to get you started:
+- 👯 𝙄𝙢 𝙡𝙤𝙤𝙠𝙞𝙣𝙜 𝙩𝙤 𝙖 𝙟𝙤𝙗 𝙤𝙣 𝙒𝙚𝙗 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : 𝙄'𝙢 𝙩𝙝𝙚 𝙗𝙚𝙨𝙩 𝙬𝙝𝙚𝙣 𝙞𝙩 𝙘𝙤𝙢𝙚𝙨 𝙩𝙤 𝙐𝙣𝙤
+
+<br/>
+
+
+## Tech Stack
+
+<table align="center">
+<tr><td align="top" width="33%">
+
+<h3 align="center">Frontend </h3>
+[![My Skills](https://skillicons.dev/icons?i=react,css,js,jest,nextjs&perline=3)](https://skillicons.dev)
+
+</td><td valign="top" width="33%">
+
+
+
+<h3 align="center">Backend </h3>
+<div align="center">  
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,sql&perline=3)](https://skillicons.dev)
+
+</td>
+
+
