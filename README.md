@@ -22,7 +22,7 @@
 ## Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,css,js,jest,nextjs,java,ts,nodejs&perline=3" />
+    <img src="https://skillicons.dev/icons?i=react,css,js,jest,nextjs,ts,nodejs&perline=3" />
   </a>
 </p>
 <div align="center">
