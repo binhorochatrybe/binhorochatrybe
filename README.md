@@ -7,7 +7,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiano-dev-l33413/)
 
 - 𝗠𝘆 𝗻𝗮𝗺𝗲 𝗶𝘀 𝗙𝗮𝗯𝗶𝗮𝗻𝗼, 𝘆𝗼𝘂 𝗰𝗮𝗻 𝗰𝗮𝗹𝗹 𝗺𝗲 𝗕𝗶𝗻𝗵𝗼!
-- binhuhue@gmail.com
+- fabianorochasales@gmail.com
 - 👨‍💻 𝙄𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙨𝙩𝙪𝙙𝙮𝙞𝙣𝙜 𝙒𝙚𝙗 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩*
 
 - 🤖 𝙄𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 Pyhton and Data Analysisab
