@@ -4,7 +4,7 @@
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiano-dev-l33413/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabianorocha-dev/)
 
 - 𝗠𝘆 𝗻𝗮𝗺𝗲 𝗶𝘀 𝗙𝗮𝗯𝗶𝗮𝗻𝗼, 𝘆𝗼𝘂 𝗰𝗮𝗻 𝗰𝗮𝗹𝗹 𝗺𝗲 𝗕𝗶𝗻𝗵𝗼!
 - fabianorochasales@gmail.com
