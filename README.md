@@ -36,14 +36,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binhorochatrybe&layout=compact&theme=radical" alt="Top Languages" height="165" />
 </div>
 
----
-
-## 🛠️ Projects
-
-Here are some of my notable projects:
-
-- [**Project Name**](https://github.com/fabianorocha-dev/project-name)  
-  A brief description of the project goes here.  
-- [**Another Project**](https://github.com/fabianorocha-dev/another-project)  
-  Another brief description of this project.  
-
